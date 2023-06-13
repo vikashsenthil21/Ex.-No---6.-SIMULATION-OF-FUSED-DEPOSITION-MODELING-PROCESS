@@ -1,12 +1,9 @@
 # Ex. No. 6 - SIMULATION OF FUSED DEPOSITION MODELING PROCESS
-
 ## DATE: 
 ## AIM:
 ### To simulate the Fused Deposition Modeling (FDM) process.
-
 ## REQUIREMENTS:
 ### System - Windows 7 or higher, 1 GB RAM.
-
 ## PROCEDURE:
 ### STEP 1: Click on 'Base'. Base and Build Platform will be displayed on the left side of the screen.
 ### STEP 2: Click on 'Extruder' then extruder and extruder nozzle will be displayed.
@@ -14,12 +11,10 @@
 ### STEP 4: Click on 'Filament' then filament will be added.
 ### STEP 5: Click on 'Start Process' to begin the process.
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
-
 ## OUTPUT:
 ## BASE
 ![Screenshot 2023-06-03 154432](https://github.com/BaskaranV15/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118703522/197b1c93-fece-4afc-9541-10b2bffa3b57)
 The base or print bed is the flat surface on which the object is built during the 3D printing process. It is usually a heated platform that provides stability and adhesion for the initial layers of the print.
-
 ## EXTRUDER
 ![Screenshot 2023-06-03 154452](https://github.com/BaskaranV15/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118703522/ff84d126-a04f-4ac6-829c-334e9315549c)
 The extruder is a fundamental component of a 3D printer. It is responsible for depositing and shaping the molten thermoplastic filament used to build the object layer by layer.
@@ -51,9 +46,7 @@ Cancel: If you decide to cancel the print, use the printer's control panel or so
 Power Down the Printer: Once the print has been canceled or completed, it's good practice to power down the 3D printer. Follow the manufacturer's instructions for properly shutting down the printer.
 Clean Up: Clean the print bed and remove any remaining filament from the extruder, especially if you don't plan to start another print immediately. Store the filament properly, either by returning it to the spool or using filament storage containers to protect it from moisture and dust.
 ## Output:
-
 ### Name:S.VIKASH
 ### Register Number:212222240115
-
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
